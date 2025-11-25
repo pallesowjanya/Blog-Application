@@ -88,8 +88,6 @@ This project was created using the following technologies.
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
 - [axios](https://www.npmjs.com/package/axios) - For making Api calls
 - [Css](https://developer.mozilla.org/en-US/docs/Web/CSS) - For User Interface
-- [CK-Editor](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/frameworks/react.html) - Rich Text Editor 
-- [uuid](https://www.npmjs.com/package/uuid) - For random id generator
 - [React icons](https://react-icons.github.io/react-icons/) -
  Small library that helps you add icons  to your react apps.
 
