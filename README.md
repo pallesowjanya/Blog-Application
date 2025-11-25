@@ -93,8 +93,7 @@ npm start        # Start Node/Express server
 - Like and unlike stories  
 - Add stories to a personal Reading List  
 - Comment on stories  
-- Story search feature + Pagination  
-- Skeleton loading effect  
+- Story search feature + Pagination    
 - Fully responsive mobile-friendly UI  
 - Custom error handling for invalid file uploads  
 - Protect routes with authentication middleware  
@@ -138,13 +137,10 @@ This project was created using the following technologies:
 
 ### Database
 
-- **MongoDB (Atlas / Local)** – Stores:
+- **MongoDB (Compass)** – Stores:
   - Users  
   - Stories  
-  - Comments  
-  - Likes  
-  - Reading lists  
-  - Uploaded images  
+  - Comments   
 
 ---
 
