@@ -170,7 +170,7 @@ This project was created using the following technologies:
 ![WhatsApp Image 2025-11-25 at 23 43 36_3afca2c6](https://github.com/user-attachments/assets/43908c84-05b6-4f83-a37a-3c1b4fd25475)
 ---
 
-## Author
+## Contributors
 
 Palle Sai Sowjanya |
 Final-Year IT Student   
