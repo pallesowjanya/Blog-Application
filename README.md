@@ -172,13 +172,13 @@ This project was created using the following technologies:
 
 ## Author
 
-Palle Sai Sowjanya  
+Palle Sai Sowjanya |
 Final-Year IT Student   
 
-Manju Sri S
+Manju Sri S |
 Final-Year IT Student 
 
-Manish Kumar N K
+Manish Kumar N K |
 Final-Year IT Student
 
 
