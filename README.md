@@ -174,16 +174,16 @@ This project was created using the following technologies:
 
 Palle Sai Sowjanya  
 Final-Year IT Student   
----
+
 Manju Sri S
 Final-Year IT Student 
----
+
 Manish Kumar N K
 Final-Year IT Student
----
 
 
 
-```
+
+
 
 
