@@ -142,7 +142,7 @@ This project was created using the following technologies:
   - Stories  
   - Comments   
 
----
+
 
 ## 📸 Screenshots
 
